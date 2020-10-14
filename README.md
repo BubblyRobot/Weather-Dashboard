@@ -1,3 +1,3 @@
 # Weather API Application
 
-![Weather app demo gif]("./Assets/WeatherDashboard.gif")
+![Weather app demo gif](./Assets/WeatherDashboard.gif)
